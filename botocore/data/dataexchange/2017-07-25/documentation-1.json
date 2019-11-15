@@ -1,0 +1,29 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange-2017-07-25",
+      "methods" : {
+         "CancelJob" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/CancelJob",
+         "CreateDataSet" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/CreateDataSet",
+         "CreateJob" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/CreateJob",
+         "CreateRevision" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/CreateRevision",
+         "DeleteAsset" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/DeleteAsset",
+         "DeleteDataSet" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/DeleteDataSet",
+         "DeleteRevision" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/DeleteRevision",
+         "GetAsset" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/GetAsset",
+         "GetDataSet" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/GetDataSet",
+         "GetJob" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/GetJob",
+         "GetRevision" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/GetRevision",
+         "ListDataSetRevisions" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/ListDataSetRevisions",
+         "ListDataSets" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/ListDataSets",
+         "ListJobs" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/ListJobs",
+         "ListRevisionAssets" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/ListRevisionAssets",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/ListTagsForResource",
+         "StartJob" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/StartJob",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/UntagResource",
+         "UpdateAsset" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/UpdateAsset",
+         "UpdateDataSet" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/UpdateDataSet",
+         "UpdateRevision" : "https://docs.aws.amazon.com/goto/WebAPI/dataexchange/UpdateRevision"
+      }
+   }
+}

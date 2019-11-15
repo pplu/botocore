@@ -1,0 +1,20 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications-2019-10-15",
+      "methods" : {
+         "CreateNotificationRule" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/CreateNotificationRule",
+         "DeleteNotificationRule" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/DeleteNotificationRule",
+         "DeleteTarget" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/DeleteTarget",
+         "DescribeNotificationRule" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/DescribeNotificationRule",
+         "ListEventTypes" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/ListEventTypes",
+         "ListNotificationRules" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/ListNotificationRules",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/ListTagsForResource",
+         "ListTargets" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/ListTargets",
+         "Subscribe" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/Subscribe",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/TagResource",
+         "Unsubscribe" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/Unsubscribe",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/UntagResource",
+         "UpdateNotificationRule" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-notifications/UpdateNotificationRule"
+      }
+   }
+}

@@ -1,0 +1,8 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/session.qldb-2019-07-11",
+      "methods" : {
+         "SendCommand" : "https://docs.aws.amazon.com/goto/WebAPI/session.qldb/SendCommand"
+      }
+   }
+}

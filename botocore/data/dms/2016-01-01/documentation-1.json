@@ -10,6 +10,7 @@
          "CreateReplicationSubnetGroup" : "https://docs.aws.amazon.com/goto/WebAPI/dms/CreateReplicationSubnetGroup",
          "CreateReplicationTask" : "https://docs.aws.amazon.com/goto/WebAPI/dms/CreateReplicationTask",
          "DeleteCertificate" : "https://docs.aws.amazon.com/goto/WebAPI/dms/DeleteCertificate",
+         "DeleteConnection" : "https://docs.aws.amazon.com/goto/WebAPI/dms/DeleteConnection",
          "DeleteEndpoint" : "https://docs.aws.amazon.com/goto/WebAPI/dms/DeleteEndpoint",
          "DeleteEventSubscription" : "https://docs.aws.amazon.com/goto/WebAPI/dms/DeleteEventSubscription",
          "DeleteReplicationInstance" : "https://docs.aws.amazon.com/goto/WebAPI/dms/DeleteReplicationInstance",

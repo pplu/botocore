@@ -3,6 +3,7 @@
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/codecommit-2015-04-13",
       "methods" : {
          "BatchDescribeMergeConflicts" : "https://docs.aws.amazon.com/goto/WebAPI/codecommit/BatchDescribeMergeConflicts",
+         "BatchGetCommits" : "https://docs.aws.amazon.com/goto/WebAPI/codecommit/BatchGetCommits",
          "BatchGetRepositories" : "https://docs.aws.amazon.com/goto/WebAPI/codecommit/BatchGetRepositories",
          "CreateBranch" : "https://docs.aws.amazon.com/goto/WebAPI/codecommit/CreateBranch",
          "CreateCommit" : "https://docs.aws.amazon.com/goto/WebAPI/codecommit/CreateCommit",

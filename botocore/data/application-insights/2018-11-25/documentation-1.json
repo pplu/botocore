@@ -16,6 +16,7 @@
          "ListApplications" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListApplications",
          "ListComponents" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListComponents",
          "ListProblems" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListProblems",
+         "UpdateApplication" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UpdateApplication",
          "UpdateComponent" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UpdateComponent",
          "UpdateComponentConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UpdateComponentConfiguration"
       }

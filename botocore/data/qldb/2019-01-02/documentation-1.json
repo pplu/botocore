@@ -1,0 +1,22 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/qldb-2019-01-02",
+      "methods" : {
+         "CreateLedger" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/CreateLedger",
+         "DeleteLedger" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/DeleteLedger",
+         "DescribeJournalS3Export" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/DescribeJournalS3Export",
+         "DescribeLedger" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/DescribeLedger",
+         "ExportJournalToS3" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/ExportJournalToS3",
+         "GetBlock" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/GetBlock",
+         "GetDigest" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/GetDigest",
+         "GetRevision" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/GetRevision",
+         "ListJournalS3Exports" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/ListJournalS3Exports",
+         "ListJournalS3ExportsForLedger" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/ListJournalS3ExportsForLedger",
+         "ListLedgers" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/ListLedgers",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/ListTagsForResource",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/UntagResource",
+         "UpdateLedger" : "https://docs.aws.amazon.com/goto/WebAPI/qldb/UpdateLedger"
+      }
+   }
+}

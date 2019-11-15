@@ -4,6 +4,7 @@
       "methods" : {
          "DeleteReportDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/cur/DeleteReportDefinition",
          "DescribeReportDefinitions" : "https://docs.aws.amazon.com/goto/WebAPI/cur/DescribeReportDefinitions",
+         "ModifyReportDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/cur/ModifyReportDefinition",
          "PutReportDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/cur/PutReportDefinition"
       }
    }

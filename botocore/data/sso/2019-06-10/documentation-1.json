@@ -1,0 +1,11 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/portal.sso-2019-06-10",
+      "methods" : {
+         "GetRoleCredentials" : "https://docs.aws.amazon.com/goto/WebAPI/portal.sso/GetRoleCredentials",
+         "ListAccountRoles" : "https://docs.aws.amazon.com/goto/WebAPI/portal.sso/ListAccountRoles",
+         "ListAccounts" : "https://docs.aws.amazon.com/goto/WebAPI/portal.sso/ListAccounts",
+         "Logout" : "https://docs.aws.amazon.com/goto/WebAPI/portal.sso/Logout"
+      }
+   }
+}

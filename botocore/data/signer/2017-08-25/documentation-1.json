@@ -9,8 +9,11 @@
          "ListSigningJobs" : "https://docs.aws.amazon.com/goto/WebAPI/signer/ListSigningJobs",
          "ListSigningPlatforms" : "https://docs.aws.amazon.com/goto/WebAPI/signer/ListSigningPlatforms",
          "ListSigningProfiles" : "https://docs.aws.amazon.com/goto/WebAPI/signer/ListSigningProfiles",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/signer/ListTagsForResource",
          "PutSigningProfile" : "https://docs.aws.amazon.com/goto/WebAPI/signer/PutSigningProfile",
-         "StartSigningJob" : "https://docs.aws.amazon.com/goto/WebAPI/signer/StartSigningJob"
+         "StartSigningJob" : "https://docs.aws.amazon.com/goto/WebAPI/signer/StartSigningJob",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/signer/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/signer/UntagResource"
       }
    }
 }

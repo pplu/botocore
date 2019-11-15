@@ -1,0 +1,8 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/workmailmessageflow-2019-05-01",
+      "methods" : {
+         "GetRawMessageContent" : "https://docs.aws.amazon.com/goto/WebAPI/workmailmessageflow/GetRawMessageContent"
+      }
+   }
+}

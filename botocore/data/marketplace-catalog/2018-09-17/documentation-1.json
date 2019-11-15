@@ -1,0 +1,13 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/catalog.marketplace-2018-09-17",
+      "methods" : {
+         "CancelChangeSet" : "https://docs.aws.amazon.com/goto/WebAPI/catalog.marketplace/CancelChangeSet",
+         "DescribeChangeSet" : "https://docs.aws.amazon.com/goto/WebAPI/catalog.marketplace/DescribeChangeSet",
+         "DescribeEntity" : "https://docs.aws.amazon.com/goto/WebAPI/catalog.marketplace/DescribeEntity",
+         "ListChangeSets" : "https://docs.aws.amazon.com/goto/WebAPI/catalog.marketplace/ListChangeSets",
+         "ListEntities" : "https://docs.aws.amazon.com/goto/WebAPI/catalog.marketplace/ListEntities",
+         "StartChangeSet" : "https://docs.aws.amazon.com/goto/WebAPI/catalog.marketplace/StartChangeSet"
+      }
+   }
+}

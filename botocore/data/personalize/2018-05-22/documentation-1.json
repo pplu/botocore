@@ -2,6 +2,7 @@
    "documentation" : {
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/personalize-2018-05-22",
       "methods" : {
+         "CreateBatchInferenceJob" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/CreateBatchInferenceJob",
          "CreateCampaign" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/CreateCampaign",
          "CreateDataset" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/CreateDataset",
          "CreateDatasetGroup" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/CreateDatasetGroup",
@@ -17,6 +18,7 @@
          "DeleteSchema" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DeleteSchema",
          "DeleteSolution" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DeleteSolution",
          "DescribeAlgorithm" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DescribeAlgorithm",
+         "DescribeBatchInferenceJob" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DescribeBatchInferenceJob",
          "DescribeCampaign" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DescribeCampaign",
          "DescribeDataset" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DescribeDataset",
          "DescribeDatasetGroup" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DescribeDatasetGroup",
@@ -28,6 +30,7 @@
          "DescribeSolution" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DescribeSolution",
          "DescribeSolutionVersion" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/DescribeSolutionVersion",
          "GetSolutionMetrics" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/GetSolutionMetrics",
+         "ListBatchInferenceJobs" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/ListBatchInferenceJobs",
          "ListCampaigns" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/ListCampaigns",
          "ListDatasetGroups" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/ListDatasetGroups",
          "ListDatasetImportJobs" : "https://docs.aws.amazon.com/goto/WebAPI/personalize/ListDatasetImportJobs",

@@ -6,6 +6,7 @@
          "AuthorizeCacheSecurityGroupIngress" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/AuthorizeCacheSecurityGroupIngress",
          "BatchApplyUpdateAction" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/BatchApplyUpdateAction",
          "BatchStopUpdateAction" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/BatchStopUpdateAction",
+         "CompleteMigration" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/CompleteMigration",
          "CopySnapshot" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/CopySnapshot",
          "CreateCacheCluster" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/CreateCacheCluster",
          "CreateCacheParameterGroup" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/CreateCacheParameterGroup",
@@ -47,6 +48,7 @@
          "RemoveTagsFromResource" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/RemoveTagsFromResource",
          "ResetCacheParameterGroup" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/ResetCacheParameterGroup",
          "RevokeCacheSecurityGroupIngress" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/RevokeCacheSecurityGroupIngress",
+         "StartMigration" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/StartMigration",
          "TestFailover" : "https://docs.aws.amazon.com/goto/WebAPI/elasticache/TestFailover"
       }
    }

@@ -1,0 +1,33 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/forecast-2018-06-26",
+      "methods" : {
+         "CreateDataset" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/CreateDataset",
+         "CreateDatasetGroup" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/CreateDatasetGroup",
+         "CreateDatasetImportJob" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/CreateDatasetImportJob",
+         "CreateForecast" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/CreateForecast",
+         "CreateForecastExportJob" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/CreateForecastExportJob",
+         "CreatePredictor" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/CreatePredictor",
+         "DeleteDataset" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DeleteDataset",
+         "DeleteDatasetGroup" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DeleteDatasetGroup",
+         "DeleteDatasetImportJob" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DeleteDatasetImportJob",
+         "DeleteForecast" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DeleteForecast",
+         "DeleteForecastExportJob" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DeleteForecastExportJob",
+         "DeletePredictor" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DeletePredictor",
+         "DescribeDataset" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DescribeDataset",
+         "DescribeDatasetGroup" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DescribeDatasetGroup",
+         "DescribeDatasetImportJob" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DescribeDatasetImportJob",
+         "DescribeForecast" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DescribeForecast",
+         "DescribeForecastExportJob" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DescribeForecastExportJob",
+         "DescribePredictor" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/DescribePredictor",
+         "GetAccuracyMetrics" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/GetAccuracyMetrics",
+         "ListDatasetGroups" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/ListDatasetGroups",
+         "ListDatasetImportJobs" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/ListDatasetImportJobs",
+         "ListDatasets" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/ListDatasets",
+         "ListForecastExportJobs" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/ListForecastExportJobs",
+         "ListForecasts" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/ListForecasts",
+         "ListPredictors" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/ListPredictors",
+         "UpdateDatasetGroup" : "https://docs.aws.amazon.com/goto/WebAPI/forecast/UpdateDatasetGroup"
+      }
+   }
+}

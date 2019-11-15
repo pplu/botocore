@@ -2,8 +2,11 @@
    "documentation" : {
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/runtime.lex-2016-11-28",
       "methods" : {
+         "DeleteSession" : "https://docs.aws.amazon.com/goto/WebAPI/runtime.lex/DeleteSession",
+         "GetSession" : "https://docs.aws.amazon.com/goto/WebAPI/runtime.lex/GetSession",
          "PostContent" : "https://docs.aws.amazon.com/goto/WebAPI/runtime.lex/PostContent",
-         "PostText" : "https://docs.aws.amazon.com/goto/WebAPI/runtime.lex/PostText"
+         "PostText" : "https://docs.aws.amazon.com/goto/WebAPI/runtime.lex/PostText",
+         "PutSession" : "https://docs.aws.amazon.com/goto/WebAPI/runtime.lex/PutSession"
       }
    }
 }

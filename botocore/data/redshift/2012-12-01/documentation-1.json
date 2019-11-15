@@ -48,6 +48,7 @@
          "DescribeHsmClientCertificates" : "https://docs.aws.amazon.com/goto/WebAPI/redshift/DescribeHsmClientCertificates",
          "DescribeHsmConfigurations" : "https://docs.aws.amazon.com/goto/WebAPI/redshift/DescribeHsmConfigurations",
          "DescribeLoggingStatus" : "https://docs.aws.amazon.com/goto/WebAPI/redshift/DescribeLoggingStatus",
+         "DescribeNodeConfigurationOptions" : "https://docs.aws.amazon.com/goto/WebAPI/redshift/DescribeNodeConfigurationOptions",
          "DescribeOrderableClusterOptions" : "https://docs.aws.amazon.com/goto/WebAPI/redshift/DescribeOrderableClusterOptions",
          "DescribeReservedNodeOfferings" : "https://docs.aws.amazon.com/goto/WebAPI/redshift/DescribeReservedNodeOfferings",
          "DescribeReservedNodes" : "https://docs.aws.amazon.com/goto/WebAPI/redshift/DescribeReservedNodes",

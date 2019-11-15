@@ -1,0 +1,20 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation-2017-03-31",
+      "methods" : {
+         "BatchGrantPermissions" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/BatchGrantPermissions",
+         "BatchRevokePermissions" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/BatchRevokePermissions",
+         "DeregisterResource" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/DeregisterResource",
+         "DescribeResource" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/DescribeResource",
+         "GetDataLakeSettings" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/GetDataLakeSettings",
+         "GetEffectivePermissionsForPath" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/GetEffectivePermissionsForPath",
+         "GrantPermissions" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/GrantPermissions",
+         "ListPermissions" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/ListPermissions",
+         "ListResources" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/ListResources",
+         "PutDataLakeSettings" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/PutDataLakeSettings",
+         "RegisterResource" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/RegisterResource",
+         "RevokePermissions" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/RevokePermissions",
+         "UpdateResource" : "https://docs.aws.amazon.com/goto/WebAPI/lakeformation/UpdateResource"
+      }
+   }
+}

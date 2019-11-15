@@ -16,6 +16,7 @@
          "DeleteDBClusterSnapshot" : "https://docs.aws.amazon.com/goto/WebAPI/rds/DeleteDBClusterSnapshot",
          "DeleteDBInstance" : "https://docs.aws.amazon.com/goto/WebAPI/rds/DeleteDBInstance",
          "DeleteDBSubnetGroup" : "https://docs.aws.amazon.com/goto/WebAPI/rds/DeleteDBSubnetGroup",
+         "DescribeCertificates" : "https://docs.aws.amazon.com/goto/WebAPI/rds/DescribeCertificates",
          "DescribeDBClusterParameterGroups" : "https://docs.aws.amazon.com/goto/WebAPI/rds/DescribeDBClusterParameterGroups",
          "DescribeDBClusterParameters" : "https://docs.aws.amazon.com/goto/WebAPI/rds/DescribeDBClusterParameters",
          "DescribeDBClusterSnapshotAttributes" : "https://docs.aws.amazon.com/goto/WebAPI/rds/DescribeDBClusterSnapshotAttributes",

@@ -1,0 +1,8 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/forecastquery-2018-06-26",
+      "methods" : {
+         "QueryForecast" : "https://docs.aws.amazon.com/goto/WebAPI/forecastquery/QueryForecast"
+      }
+   }
+}

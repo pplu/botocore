@@ -6,6 +6,9 @@
          "DeleteLifecyclePolicy" : "https://docs.aws.amazon.com/goto/WebAPI/dlm/DeleteLifecyclePolicy",
          "GetLifecyclePolicies" : "https://docs.aws.amazon.com/goto/WebAPI/dlm/GetLifecyclePolicies",
          "GetLifecyclePolicy" : "https://docs.aws.amazon.com/goto/WebAPI/dlm/GetLifecyclePolicy",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/dlm/ListTagsForResource",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/dlm/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/dlm/UntagResource",
          "UpdateLifecyclePolicy" : "https://docs.aws.amazon.com/goto/WebAPI/dlm/UpdateLifecyclePolicy"
       }
    }

@@ -18,6 +18,7 @@
          "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/ListTagsForResource",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/TagResource",
          "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/UntagResource",
+         "UpdateBrokerCount" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/UpdateBrokerCount",
          "UpdateBrokerStorage" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/UpdateBrokerStorage",
          "UpdateClusterConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/UpdateClusterConfiguration"
       }

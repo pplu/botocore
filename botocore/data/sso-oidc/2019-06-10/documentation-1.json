@@ -1,0 +1,10 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/oidc-2019-06-10",
+      "methods" : {
+         "CreateToken" : "https://docs.aws.amazon.com/goto/WebAPI/oidc/CreateToken",
+         "RegisterClient" : "https://docs.aws.amazon.com/goto/WebAPI/oidc/RegisterClient",
+         "StartDeviceAuthorization" : "https://docs.aws.amazon.com/goto/WebAPI/oidc/StartDeviceAuthorization"
+      }
+   }
+}

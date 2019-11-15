@@ -1,0 +1,15 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans-2019-06-28",
+      "methods" : {
+         "CreateSavingsPlan" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans/CreateSavingsPlan",
+         "DescribeSavingsPlanRates" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans/DescribeSavingsPlanRates",
+         "DescribeSavingsPlans" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans/DescribeSavingsPlans",
+         "DescribeSavingsPlansOfferingRates" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans/DescribeSavingsPlansOfferingRates",
+         "DescribeSavingsPlansOfferings" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans/DescribeSavingsPlansOfferings",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans/ListTagsForResource",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/savingsplans/UntagResource"
+      }
+   }
+}

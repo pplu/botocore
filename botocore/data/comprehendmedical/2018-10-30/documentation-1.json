@@ -2,8 +2,17 @@
    "documentation" : {
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical-2018-10-30",
       "methods" : {
+         "DescribeEntitiesDetectionV2Job" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DescribeEntitiesDetectionV2Job",
+         "DescribePHIDetectionJob" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DescribePHIDetectionJob",
          "DetectEntities" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DetectEntities",
-         "DetectPHI" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DetectPHI"
+         "DetectEntitiesV2" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DetectEntitiesV2",
+         "DetectPHI" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DetectPHI",
+         "ListEntitiesDetectionV2Jobs" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/ListEntitiesDetectionV2Jobs",
+         "ListPHIDetectionJobs" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/ListPHIDetectionJobs",
+         "StartEntitiesDetectionV2Job" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/StartEntitiesDetectionV2Job",
+         "StartPHIDetectionJob" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/StartPHIDetectionJob",
+         "StopEntitiesDetectionV2Job" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/StopEntitiesDetectionV2Job",
+         "StopPHIDetectionJob" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/StopPHIDetectionJob"
       }
    }
 }

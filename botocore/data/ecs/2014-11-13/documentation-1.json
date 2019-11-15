@@ -41,6 +41,7 @@
          "SubmitTaskStateChange" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/SubmitTaskStateChange",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/TagResource",
          "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/UntagResource",
+         "UpdateClusterSettings" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/UpdateClusterSettings",
          "UpdateContainerAgent" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/UpdateContainerAgent",
          "UpdateContainerInstancesState" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/UpdateContainerInstancesState",
          "UpdateService" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/UpdateService",
