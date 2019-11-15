@@ -45,6 +45,7 @@ from botocore.compat import urlparse
 from botocore.compat import parse_qs
 from botocore import utils
 from botocore import credentials
+from botocore.stub import Stubber
 
 
 _LOADER = botocore.loaders.Loader()
@@ -377,11 +378,11 @@ class RawResponse(BytesIO):
             contents = self.read()
 
 
-class ClientHTTPStubber(object):
-    def __init__(self, client, strict=True):
+class BaseHTTPStubber(object):
+    def __init__(self, obj_with_event_emitter, strict=True):
         self.reset()
         self._strict = strict
-        self._client = client
+        self._obj_with_event_emitter = obj_with_event_emitter
 
     def reset(self):
         self.requests = []
@@ -396,11 +397,15 @@ class ClientHTTPStubber(object):
         response = AWSResponse(url, status, headers, raw)
         self.responses.append(response)
 
+    @property
+    def _events(self):
+        raise NotImplementedError('_events')
+
     def start(self):
-        self._client.meta.events.register('before-send', self)
+        self._events.register('before-send', self)
 
     def stop(self):
-        self._client.meta.events.unregister('before-send', self)
+        self._events.unregister('before-send', self)
 
     def __enter__(self):
         self.start()
@@ -421,6 +426,18 @@ class ClientHTTPStubber(object):
             raise HTTPStubberException('Insufficient responses')
         else:
             return None
+
+
+class ClientHTTPStubber(BaseHTTPStubber):
+    @property
+    def _events(self):
+        return self._obj_with_event_emitter.meta.events
+
+
+class SessionHTTPStubber(BaseHTTPStubber):
+    @property
+    def _events(self):
+        return self._obj_with_event_emitter.get_component('event_emitter')
 
 
 class ConsistencyWaiterException(Exception):
@@ -482,3 +499,36 @@ class ConsistencyWaiter(object):
     def _fail_message(self, attempts, successes):
         format_args = (attempts, successes)
         return 'Failed after %s attempts, only had %s successes' % format_args
+
+
+class StubbedSession(botocore.session.Session):
+    def __init__(self, *args, **kwargs):
+        super(StubbedSession, self).__init__(*args, **kwargs)
+        self._cached_clients = {}
+        self._client_stubs = {}
+
+    def create_client(self, service_name, *args, **kwargs):
+        if service_name not in self._cached_clients:
+            client = self._create_stubbed_client(service_name, *args, **kwargs)
+            self._cached_clients[service_name] = client
+        return self._cached_clients[service_name]
+
+    def _create_stubbed_client(self, service_name, *args, **kwargs):
+        client = super(StubbedSession, self).create_client(
+            service_name, *args, **kwargs)
+        stubber = Stubber(client)
+        self._client_stubs[service_name] = stubber
+        return client
+
+    def stub(self, service_name):
+        if service_name not in self._client_stubs:
+            self.create_client(service_name)
+        return self._client_stubs[service_name]
+
+    def activate_stubs(self):
+        for stub in self._client_stubs.values():
+            stub.activate()
+
+    def verify_stubs(self):
+        for stub in self._client_stubs.values():
+            stub.assert_no_pending_responses()

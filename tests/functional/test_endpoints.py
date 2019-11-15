@@ -40,7 +40,7 @@ SERVICE_RENAMES = {
     'elb': 'elastic-load-balancing',
     'elbv2': 'elastic-load-balancing-v2',
     'es': 'elasticsearch-service',
-    'events': 'cloudwatch-events',
+    'events': 'eventbridge',
     'globalaccelerator': 'global-accelerator',
     'iot-data': 'iot-data-plane',
     'iot-jobs-data': 'iot-jobs-data-plane',
@@ -83,9 +83,12 @@ ENDPOINT_PREFIX_OVERRIDE = {
     # For neptune, we send requests to the RDS endpoint.
     'neptune': 'rds',
     'docdb': 'rds',
+    # iotevents data endpoints.json and service-2.json don't line up.
+    'ioteventsdata': 'data.iotevents',
 }
 NOT_SUPPORTED_IN_SDK = [
     'mobileanalytics',
+    'transcribestreaming',
 ]
 
 
