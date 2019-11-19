@@ -3,16 +3,22 @@
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/eks-2017-11-01",
       "methods" : {
          "CreateCluster" : "https://docs.aws.amazon.com/goto/WebAPI/eks/CreateCluster",
+         "CreateNodegroup" : "https://docs.aws.amazon.com/goto/WebAPI/eks/CreateNodegroup",
          "DeleteCluster" : "https://docs.aws.amazon.com/goto/WebAPI/eks/DeleteCluster",
+         "DeleteNodegroup" : "https://docs.aws.amazon.com/goto/WebAPI/eks/DeleteNodegroup",
          "DescribeCluster" : "https://docs.aws.amazon.com/goto/WebAPI/eks/DescribeCluster",
+         "DescribeNodegroup" : "https://docs.aws.amazon.com/goto/WebAPI/eks/DescribeNodegroup",
          "DescribeUpdate" : "https://docs.aws.amazon.com/goto/WebAPI/eks/DescribeUpdate",
          "ListClusters" : "https://docs.aws.amazon.com/goto/WebAPI/eks/ListClusters",
+         "ListNodegroups" : "https://docs.aws.amazon.com/goto/WebAPI/eks/ListNodegroups",
          "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/eks/ListTagsForResource",
          "ListUpdates" : "https://docs.aws.amazon.com/goto/WebAPI/eks/ListUpdates",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/eks/TagResource",
          "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/eks/UntagResource",
          "UpdateClusterConfig" : "https://docs.aws.amazon.com/goto/WebAPI/eks/UpdateClusterConfig",
-         "UpdateClusterVersion" : "https://docs.aws.amazon.com/goto/WebAPI/eks/UpdateClusterVersion"
+         "UpdateClusterVersion" : "https://docs.aws.amazon.com/goto/WebAPI/eks/UpdateClusterVersion",
+         "UpdateNodegroupConfig" : "https://docs.aws.amazon.com/goto/WebAPI/eks/UpdateNodegroupConfig",
+         "UpdateNodegroupVersion" : "https://docs.aws.amazon.com/goto/WebAPI/eks/UpdateNodegroupVersion"
       }
    }
 }

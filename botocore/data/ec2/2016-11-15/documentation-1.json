@@ -292,6 +292,7 @@
          "ModifyInstanceCapacityReservationAttributes" : "https://docs.aws.amazon.com/goto/WebAPI/ec2/ModifyInstanceCapacityReservationAttributes",
          "ModifyInstanceCreditSpecification" : "https://docs.aws.amazon.com/goto/WebAPI/ec2/ModifyInstanceCreditSpecification",
          "ModifyInstanceEventStartTime" : "https://docs.aws.amazon.com/goto/WebAPI/ec2/ModifyInstanceEventStartTime",
+         "ModifyInstanceMetadataOptions" : "https://docs.aws.amazon.com/goto/WebAPI/ec2/ModifyInstanceMetadataOptions",
          "ModifyInstancePlacement" : "https://docs.aws.amazon.com/goto/WebAPI/ec2/ModifyInstancePlacement",
          "ModifyLaunchTemplate" : "https://docs.aws.amazon.com/goto/WebAPI/ec2/ModifyLaunchTemplate",
          "ModifyNetworkInterfaceAttribute" : "https://docs.aws.amazon.com/goto/WebAPI/ec2/ModifyNetworkInterfaceAttribute",

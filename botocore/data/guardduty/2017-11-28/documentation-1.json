@@ -8,6 +8,7 @@
          "CreateFilter" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/CreateFilter",
          "CreateIPSet" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/CreateIPSet",
          "CreateMembers" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/CreateMembers",
+         "CreatePublishingDestination" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/CreatePublishingDestination",
          "CreateSampleFindings" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/CreateSampleFindings",
          "CreateThreatIntelSet" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/CreateThreatIntelSet",
          "DeclineInvitations" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DeclineInvitations",
@@ -16,7 +17,9 @@
          "DeleteIPSet" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DeleteIPSet",
          "DeleteInvitations" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DeleteInvitations",
          "DeleteMembers" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DeleteMembers",
+         "DeletePublishingDestination" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DeletePublishingDestination",
          "DeleteThreatIntelSet" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DeleteThreatIntelSet",
+         "DescribePublishingDestination" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DescribePublishingDestination",
          "DisassociateFromMasterAccount" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DisassociateFromMasterAccount",
          "DisassociateMembers" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/DisassociateMembers",
          "GetDetector" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/GetDetector",
@@ -35,6 +38,7 @@
          "ListIPSets" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/ListIPSets",
          "ListInvitations" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/ListInvitations",
          "ListMembers" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/ListMembers",
+         "ListPublishingDestinations" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/ListPublishingDestinations",
          "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/ListTagsForResource",
          "ListThreatIntelSets" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/ListThreatIntelSets",
          "StartMonitoringMembers" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/StartMonitoringMembers",
@@ -46,6 +50,7 @@
          "UpdateFilter" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/UpdateFilter",
          "UpdateFindingsFeedback" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/UpdateFindingsFeedback",
          "UpdateIPSet" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/UpdateIPSet",
+         "UpdatePublishingDestination" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/UpdatePublishingDestination",
          "UpdateThreatIntelSet" : "https://docs.aws.amazon.com/goto/WebAPI/guardduty/UpdateThreatIntelSet"
       }
    }
