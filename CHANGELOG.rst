@@ -2,6 +2,33 @@
 CHANGELOG
 =========
 
+1.13.21
+=======
+
+* api-change:``ec2``: Update ec2 client to latest version
+* api-change:``cloudformation``: Update cloudformation client to latest version
+* api-change:``elbv2``: Update elbv2 client to latest version
+* api-change:``lambda``: Update lambda client to latest version
+* api-change:``config``: Update config client to latest version
+* api-change:``iam``: Update iam client to latest version
+* api-change:``codebuild``: Update codebuild client to latest version
+* api-change:``iot``: Update iot client to latest version
+* api-change:``autoscaling``: Update autoscaling client to latest version
+
+
+1.13.20
+=======
+
+* api-change:``cloudformation``: Update cloudformation client to latest version
+* api-change:``s3``: Update s3 client to latest version
+* api-change:``rds``: Update rds client to latest version
+* api-change:``pinpoint``: Update pinpoint client to latest version
+* api-change:``sagemaker``: Update sagemaker client to latest version
+* api-change:``sagemaker-runtime``: Update sagemaker-runtime client to latest version
+* api-change:``ce``: Update ce client to latest version
+* api-change:``ssm``: Update ssm client to latest version
+
+
 1.13.19
 =======
 
