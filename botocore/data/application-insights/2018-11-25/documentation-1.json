@@ -4,21 +4,30 @@
       "methods" : {
          "CreateApplication" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/CreateApplication",
          "CreateComponent" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/CreateComponent",
+         "CreateLogPattern" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/CreateLogPattern",
          "DeleteApplication" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DeleteApplication",
          "DeleteComponent" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DeleteComponent",
+         "DeleteLogPattern" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DeleteLogPattern",
          "DescribeApplication" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeApplication",
          "DescribeComponent" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeComponent",
          "DescribeComponentConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeComponentConfiguration",
          "DescribeComponentConfigurationRecommendation" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeComponentConfigurationRecommendation",
+         "DescribeLogPattern" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeLogPattern",
          "DescribeObservation" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeObservation",
          "DescribeProblem" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeProblem",
          "DescribeProblemObservations" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeProblemObservations",
          "ListApplications" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListApplications",
          "ListComponents" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListComponents",
+         "ListLogPatternSets" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListLogPatternSets",
+         "ListLogPatterns" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListLogPatterns",
          "ListProblems" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListProblems",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListTagsForResource",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UntagResource",
          "UpdateApplication" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UpdateApplication",
          "UpdateComponent" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UpdateComponent",
-         "UpdateComponentConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UpdateComponentConfiguration"
+         "UpdateComponentConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UpdateComponentConfiguration",
+         "UpdateLogPattern" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/UpdateLogPattern"
       }
    }
 }

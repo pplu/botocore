@@ -7,13 +7,17 @@
          "BatchDetectKeyPhrases" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/BatchDetectKeyPhrases",
          "BatchDetectSentiment" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/BatchDetectSentiment",
          "BatchDetectSyntax" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/BatchDetectSyntax",
+         "ClassifyDocument" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/ClassifyDocument",
          "CreateDocumentClassifier" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/CreateDocumentClassifier",
+         "CreateEndpoint" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/CreateEndpoint",
          "CreateEntityRecognizer" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/CreateEntityRecognizer",
          "DeleteDocumentClassifier" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DeleteDocumentClassifier",
+         "DeleteEndpoint" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DeleteEndpoint",
          "DeleteEntityRecognizer" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DeleteEntityRecognizer",
          "DescribeDocumentClassificationJob" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DescribeDocumentClassificationJob",
          "DescribeDocumentClassifier" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DescribeDocumentClassifier",
          "DescribeDominantLanguageDetectionJob" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DescribeDominantLanguageDetectionJob",
+         "DescribeEndpoint" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DescribeEndpoint",
          "DescribeEntitiesDetectionJob" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DescribeEntitiesDetectionJob",
          "DescribeEntityRecognizer" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DescribeEntityRecognizer",
          "DescribeKeyPhrasesDetectionJob" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/DescribeKeyPhrasesDetectionJob",
@@ -27,6 +31,7 @@
          "ListDocumentClassificationJobs" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/ListDocumentClassificationJobs",
          "ListDocumentClassifiers" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/ListDocumentClassifiers",
          "ListDominantLanguageDetectionJobs" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/ListDominantLanguageDetectionJobs",
+         "ListEndpoints" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/ListEndpoints",
          "ListEntitiesDetectionJobs" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/ListEntitiesDetectionJobs",
          "ListEntityRecognizers" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/ListEntityRecognizers",
          "ListKeyPhrasesDetectionJobs" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/ListKeyPhrasesDetectionJobs",
@@ -46,7 +51,8 @@
          "StopTrainingDocumentClassifier" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/StopTrainingDocumentClassifier",
          "StopTrainingEntityRecognizer" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/StopTrainingEntityRecognizer",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/TagResource",
-         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/UntagResource"
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/UntagResource",
+         "UpdateEndpoint" : "https://docs.aws.amazon.com/goto/WebAPI/comprehend/UpdateEndpoint"
       }
    }
 }

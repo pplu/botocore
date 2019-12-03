@@ -11,12 +11,14 @@
          "DeleteEventSourceMapping" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/DeleteEventSourceMapping",
          "DeleteFunction" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/DeleteFunction",
          "DeleteFunctionConcurrency" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/DeleteFunctionConcurrency",
+         "DeleteFunctionEventInvokeConfig" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/DeleteFunctionEventInvokeConfig",
          "DeleteLayerVersion" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/DeleteLayerVersion",
          "GetAccountSettings" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetAccountSettings",
          "GetAlias" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetAlias",
          "GetEventSourceMapping" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetEventSourceMapping",
          "GetFunction" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetFunction",
          "GetFunctionConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetFunctionConfiguration",
+         "GetFunctionEventInvokeConfig" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetFunctionEventInvokeConfig",
          "GetLayerVersion" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetLayerVersion",
          "GetLayerVersionByArn" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetLayerVersionByArn",
          "GetLayerVersionPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/GetLayerVersionPolicy",
@@ -25,6 +27,7 @@
          "InvokeAsync" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/InvokeAsync",
          "ListAliases" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/ListAliases",
          "ListEventSourceMappings" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/ListEventSourceMappings",
+         "ListFunctionEventInvokeConfigs" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/ListFunctionEventInvokeConfigs",
          "ListFunctions" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/ListFunctions",
          "ListLayerVersions" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/ListLayerVersions",
          "ListLayers" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/ListLayers",
@@ -33,6 +36,7 @@
          "PublishLayerVersion" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/PublishLayerVersion",
          "PublishVersion" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/PublishVersion",
          "PutFunctionConcurrency" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/PutFunctionConcurrency",
+         "PutFunctionEventInvokeConfig" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/PutFunctionEventInvokeConfig",
          "RemoveLayerVersionPermission" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/RemoveLayerVersionPermission",
          "RemovePermission" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/RemovePermission",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/TagResource",
@@ -40,7 +44,8 @@
          "UpdateAlias" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/UpdateAlias",
          "UpdateEventSourceMapping" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/UpdateEventSourceMapping",
          "UpdateFunctionCode" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/UpdateFunctionCode",
-         "UpdateFunctionConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/UpdateFunctionConfiguration"
+         "UpdateFunctionConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/UpdateFunctionConfiguration",
+         "UpdateFunctionEventInvokeConfig" : "https://docs.aws.amazon.com/goto/WebAPI/lambda/UpdateFunctionEventInvokeConfig"
       }
    }
 }

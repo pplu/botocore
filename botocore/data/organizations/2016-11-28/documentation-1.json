@@ -16,6 +16,7 @@
          "DeletePolicy" : "https://docs.aws.amazon.com/goto/WebAPI/organizations/DeletePolicy",
          "DescribeAccount" : "https://docs.aws.amazon.com/goto/WebAPI/organizations/DescribeAccount",
          "DescribeCreateAccountStatus" : "https://docs.aws.amazon.com/goto/WebAPI/organizations/DescribeCreateAccountStatus",
+         "DescribeEffectivePolicy" : "https://docs.aws.amazon.com/goto/WebAPI/organizations/DescribeEffectivePolicy",
          "DescribeHandshake" : "https://docs.aws.amazon.com/goto/WebAPI/organizations/DescribeHandshake",
          "DescribeOrganization" : "https://docs.aws.amazon.com/goto/WebAPI/organizations/DescribeOrganization",
          "DescribeOrganizationalUnit" : "https://docs.aws.amazon.com/goto/WebAPI/organizations/DescribeOrganizationalUnit",

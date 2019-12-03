@@ -1,0 +1,36 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/schemas-2019-12-02",
+      "methods" : {
+         "CreateDiscoverer" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/CreateDiscoverer",
+         "CreateRegistry" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/CreateRegistry",
+         "CreateSchema" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/CreateSchema",
+         "DeleteDiscoverer" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/DeleteDiscoverer",
+         "DeleteRegistry" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/DeleteRegistry",
+         "DeleteSchema" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/DeleteSchema",
+         "DeleteSchemaVersion" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/DeleteSchemaVersion",
+         "DescribeCodeBinding" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/DescribeCodeBinding",
+         "DescribeDiscoverer" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/DescribeDiscoverer",
+         "DescribeRegistry" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/DescribeRegistry",
+         "DescribeSchema" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/DescribeSchema",
+         "GetCodeBindingSource" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/GetCodeBindingSource",
+         "GetDiscoveredSchema" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/GetDiscoveredSchema",
+         "ListDiscoverers" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/ListDiscoverers",
+         "ListRegistries" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/ListRegistries",
+         "ListSchemaVersions" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/ListSchemaVersions",
+         "ListSchemas" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/ListSchemas",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/ListTagsForResource",
+         "LockServiceLinkedRole" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/LockServiceLinkedRole",
+         "PutCodeBinding" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/PutCodeBinding",
+         "SearchSchemas" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/SearchSchemas",
+         "StartDiscoverer" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/StartDiscoverer",
+         "StopDiscoverer" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/StopDiscoverer",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/TagResource",
+         "UnlockServiceLinkedRole" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/UnlockServiceLinkedRole",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/UntagResource",
+         "UpdateDiscoverer" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/UpdateDiscoverer",
+         "UpdateRegistry" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/UpdateRegistry",
+         "UpdateSchema" : "https://docs.aws.amazon.com/goto/WebAPI/schemas/UpdateSchema"
+      }
+   }
+}

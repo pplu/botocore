@@ -20,6 +20,7 @@
          "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/connect/ListTagsForResource",
          "ListUserHierarchyGroups" : "https://docs.aws.amazon.com/goto/WebAPI/connect/ListUserHierarchyGroups",
          "ListUsers" : "https://docs.aws.amazon.com/goto/WebAPI/connect/ListUsers",
+         "StartChatContact" : "https://docs.aws.amazon.com/goto/WebAPI/connect/StartChatContact",
          "StartOutboundVoiceContact" : "https://docs.aws.amazon.com/goto/WebAPI/connect/StartOutboundVoiceContact",
          "StopContact" : "https://docs.aws.amazon.com/goto/WebAPI/connect/StopContact",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/connect/TagResource",

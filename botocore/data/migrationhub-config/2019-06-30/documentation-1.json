@@ -1,0 +1,10 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/migrationhub-config-2019-06-30",
+      "methods" : {
+         "CreateHomeRegionControl" : "https://docs.aws.amazon.com/goto/WebAPI/migrationhub-config/CreateHomeRegionControl",
+         "DescribeHomeRegionControls" : "https://docs.aws.amazon.com/goto/WebAPI/migrationhub-config/DescribeHomeRegionControls",
+         "GetHomeRegion" : "https://docs.aws.amazon.com/goto/WebAPI/migrationhub-config/GetHomeRegion"
+      }
+   }
+}

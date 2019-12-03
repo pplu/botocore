@@ -1,0 +1,14 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/api.tunneling.iot-2018-10-05",
+      "methods" : {
+         "CloseTunnel" : "https://docs.aws.amazon.com/goto/WebAPI/api.tunneling.iot/CloseTunnel",
+         "DescribeTunnel" : "https://docs.aws.amazon.com/goto/WebAPI/api.tunneling.iot/DescribeTunnel",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/api.tunneling.iot/ListTagsForResource",
+         "ListTunnels" : "https://docs.aws.amazon.com/goto/WebAPI/api.tunneling.iot/ListTunnels",
+         "OpenTunnel" : "https://docs.aws.amazon.com/goto/WebAPI/api.tunneling.iot/OpenTunnel",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/api.tunneling.iot/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/api.tunneling.iot/UntagResource"
+      }
+   }
+}

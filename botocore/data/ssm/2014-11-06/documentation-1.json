@@ -121,6 +121,7 @@
          "UpdateManagedInstanceRole" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/UpdateManagedInstanceRole",
          "UpdateOpsItem" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/UpdateOpsItem",
          "UpdatePatchBaseline" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/UpdatePatchBaseline",
+         "UpdateResourceDataSync" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/UpdateResourceDataSync",
          "UpdateServiceSetting" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/UpdateServiceSetting"
       }
    }

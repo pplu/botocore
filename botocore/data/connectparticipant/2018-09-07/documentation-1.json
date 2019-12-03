@@ -1,0 +1,12 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/participant.connect-2018-09-07",
+      "methods" : {
+         "CreateParticipantConnection" : "https://docs.aws.amazon.com/goto/WebAPI/participant.connect/CreateParticipantConnection",
+         "DisconnectParticipant" : "https://docs.aws.amazon.com/goto/WebAPI/participant.connect/DisconnectParticipant",
+         "GetTranscript" : "https://docs.aws.amazon.com/goto/WebAPI/participant.connect/GetTranscript",
+         "SendEvent" : "https://docs.aws.amazon.com/goto/WebAPI/participant.connect/SendEvent",
+         "SendMessage" : "https://docs.aws.amazon.com/goto/WebAPI/participant.connect/SendMessage"
+      }
+   }
+}

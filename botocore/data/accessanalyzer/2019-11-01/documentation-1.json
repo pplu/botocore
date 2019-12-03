@@ -1,0 +1,25 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer-2019-11-01",
+      "methods" : {
+         "CreateAnalyzer" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/CreateAnalyzer",
+         "CreateArchiveRule" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/CreateArchiveRule",
+         "DeleteAnalyzer" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/DeleteAnalyzer",
+         "DeleteArchiveRule" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/DeleteArchiveRule",
+         "GetAnalyzedResource" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/GetAnalyzedResource",
+         "GetAnalyzer" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/GetAnalyzer",
+         "GetArchiveRule" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/GetArchiveRule",
+         "GetFinding" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/GetFinding",
+         "ListAnalyzedResources" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/ListAnalyzedResources",
+         "ListAnalyzers" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/ListAnalyzers",
+         "ListArchiveRules" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/ListArchiveRules",
+         "ListFindings" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/ListFindings",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/ListTagsForResource",
+         "StartResourceScan" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/StartResourceScan",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/UntagResource",
+         "UpdateArchiveRule" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/UpdateArchiveRule",
+         "UpdateFindings" : "https://docs.aws.amazon.com/goto/WebAPI/access-analyzer/UpdateFindings"
+      }
+   }
+}

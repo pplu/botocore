@@ -1,0 +1,43 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2-2019-07-29",
+      "methods" : {
+         "AssociateWebACL" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/AssociateWebACL",
+         "CheckCapacity" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/CheckCapacity",
+         "CreateIPSet" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/CreateIPSet",
+         "CreateRegexPatternSet" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/CreateRegexPatternSet",
+         "CreateRuleGroup" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/CreateRuleGroup",
+         "CreateWebACL" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/CreateWebACL",
+         "DeleteIPSet" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/DeleteIPSet",
+         "DeleteLoggingConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/DeleteLoggingConfiguration",
+         "DeleteRegexPatternSet" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/DeleteRegexPatternSet",
+         "DeleteRuleGroup" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/DeleteRuleGroup",
+         "DeleteWebACL" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/DeleteWebACL",
+         "DescribeManagedRuleGroup" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/DescribeManagedRuleGroup",
+         "DisassociateWebACL" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/DisassociateWebACL",
+         "GetIPSet" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/GetIPSet",
+         "GetLoggingConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/GetLoggingConfiguration",
+         "GetRateBasedStatementManagedKeys" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/GetRateBasedStatementManagedKeys",
+         "GetRegexPatternSet" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/GetRegexPatternSet",
+         "GetRuleGroup" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/GetRuleGroup",
+         "GetSampledRequests" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/GetSampledRequests",
+         "GetWebACL" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/GetWebACL",
+         "GetWebACLForResource" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/GetWebACLForResource",
+         "ListAvailableManagedRuleGroups" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/ListAvailableManagedRuleGroups",
+         "ListIPSets" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/ListIPSets",
+         "ListLoggingConfigurations" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/ListLoggingConfigurations",
+         "ListRegexPatternSets" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/ListRegexPatternSets",
+         "ListResourcesForWebACL" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/ListResourcesForWebACL",
+         "ListRuleGroups" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/ListRuleGroups",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/ListTagsForResource",
+         "ListWebACLs" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/ListWebACLs",
+         "PutLoggingConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/PutLoggingConfiguration",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/UntagResource",
+         "UpdateIPSet" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/UpdateIPSet",
+         "UpdateRegexPatternSet" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/UpdateRegexPatternSet",
+         "UpdateRuleGroup" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/UpdateRuleGroup",
+         "UpdateWebACL" : "https://docs.aws.amazon.com/goto/WebAPI/wafv2/UpdateWebACL"
+      }
+   }
+}

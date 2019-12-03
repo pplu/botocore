@@ -2,6 +2,9 @@
    "documentation" : {
       "api_url" : "https://docs.aws.amazon.com/account-billing/",
       "methods" : {
+         "CreateCostCategoryDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/ce/CreateCostCategoryDefinition",
+         "DeleteCostCategoryDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/ce/DeleteCostCategoryDefinition",
+         "DescribeCostCategoryDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/ce/DescribeCostCategoryDefinition",
          "GetCostAndUsage" : "https://docs.aws.amazon.com/goto/WebAPI/ce/GetCostAndUsage",
          "GetCostAndUsageWithResources" : "https://docs.aws.amazon.com/goto/WebAPI/ce/GetCostAndUsageWithResources",
          "GetCostForecast" : "https://docs.aws.amazon.com/goto/WebAPI/ce/GetCostForecast",
@@ -15,7 +18,9 @@
          "GetSavingsPlansUtilization" : "https://docs.aws.amazon.com/goto/WebAPI/ce/GetSavingsPlansUtilization",
          "GetSavingsPlansUtilizationDetails" : "https://docs.aws.amazon.com/goto/WebAPI/ce/GetSavingsPlansUtilizationDetails",
          "GetTags" : "https://docs.aws.amazon.com/goto/WebAPI/ce/GetTags",
-         "GetUsageForecast" : "https://docs.aws.amazon.com/goto/WebAPI/ce/GetUsageForecast"
+         "GetUsageForecast" : "https://docs.aws.amazon.com/goto/WebAPI/ce/GetUsageForecast",
+         "ListCostCategoryDefinitions" : "https://docs.aws.amazon.com/goto/WebAPI/ce/ListCostCategoryDefinitions",
+         "UpdateCostCategoryDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/ce/UpdateCostCategoryDefinition"
       }
    }
 }

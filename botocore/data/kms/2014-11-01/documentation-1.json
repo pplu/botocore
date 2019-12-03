@@ -21,11 +21,14 @@
          "EnableKeyRotation" : "https://docs.aws.amazon.com/goto/WebAPI/kms/EnableKeyRotation",
          "Encrypt" : "https://docs.aws.amazon.com/goto/WebAPI/kms/Encrypt",
          "GenerateDataKey" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GenerateDataKey",
+         "GenerateDataKeyPair" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GenerateDataKeyPair",
+         "GenerateDataKeyPairWithoutPlaintext" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GenerateDataKeyPairWithoutPlaintext",
          "GenerateDataKeyWithoutPlaintext" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GenerateDataKeyWithoutPlaintext",
          "GenerateRandom" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GenerateRandom",
          "GetKeyPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GetKeyPolicy",
          "GetKeyRotationStatus" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GetKeyRotationStatus",
          "GetParametersForImport" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GetParametersForImport",
+         "GetPublicKey" : "https://docs.aws.amazon.com/goto/WebAPI/kms/GetPublicKey",
          "ImportKeyMaterial" : "https://docs.aws.amazon.com/goto/WebAPI/kms/ImportKeyMaterial",
          "ListAliases" : "https://docs.aws.amazon.com/goto/WebAPI/kms/ListAliases",
          "ListGrants" : "https://docs.aws.amazon.com/goto/WebAPI/kms/ListGrants",
@@ -38,11 +41,13 @@
          "RetireGrant" : "https://docs.aws.amazon.com/goto/WebAPI/kms/RetireGrant",
          "RevokeGrant" : "https://docs.aws.amazon.com/goto/WebAPI/kms/RevokeGrant",
          "ScheduleKeyDeletion" : "https://docs.aws.amazon.com/goto/WebAPI/kms/ScheduleKeyDeletion",
+         "Sign" : "https://docs.aws.amazon.com/goto/WebAPI/kms/Sign",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/kms/TagResource",
          "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/kms/UntagResource",
          "UpdateAlias" : "https://docs.aws.amazon.com/goto/WebAPI/kms/UpdateAlias",
          "UpdateCustomKeyStore" : "https://docs.aws.amazon.com/goto/WebAPI/kms/UpdateCustomKeyStore",
-         "UpdateKeyDescription" : "https://docs.aws.amazon.com/goto/WebAPI/kms/UpdateKeyDescription"
+         "UpdateKeyDescription" : "https://docs.aws.amazon.com/goto/WebAPI/kms/UpdateKeyDescription",
+         "Verify" : "https://docs.aws.amazon.com/goto/WebAPI/kms/Verify"
       }
    }
 }

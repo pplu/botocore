@@ -1,0 +1,10 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/api.elastic-inference-2017-07-25",
+      "methods" : {
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/api.elastic-inference/ListTagsForResource",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/api.elastic-inference/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/api.elastic-inference/UntagResource"
+      }
+   }
+}

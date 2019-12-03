@@ -1,0 +1,36 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig-2019-10-09",
+      "methods" : {
+         "CreateApplication" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/CreateApplication",
+         "CreateConfigurationProfile" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/CreateConfigurationProfile",
+         "CreateDeploymentStrategy" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/CreateDeploymentStrategy",
+         "CreateEnvironment" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/CreateEnvironment",
+         "DeleteApplication" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/DeleteApplication",
+         "DeleteConfigurationProfile" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/DeleteConfigurationProfile",
+         "DeleteDeploymentStrategy" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/DeleteDeploymentStrategy",
+         "DeleteEnvironment" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/DeleteEnvironment",
+         "GetApplication" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/GetApplication",
+         "GetConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/GetConfiguration",
+         "GetConfigurationProfile" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/GetConfigurationProfile",
+         "GetDeployment" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/GetDeployment",
+         "GetDeploymentStrategy" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/GetDeploymentStrategy",
+         "GetEnvironment" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/GetEnvironment",
+         "ListApplications" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/ListApplications",
+         "ListConfigurationProfiles" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/ListConfigurationProfiles",
+         "ListDeploymentStrategies" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/ListDeploymentStrategies",
+         "ListDeployments" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/ListDeployments",
+         "ListEnvironments" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/ListEnvironments",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/ListTagsForResource",
+         "StartDeployment" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/StartDeployment",
+         "StopDeployment" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/StopDeployment",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/UntagResource",
+         "UpdateApplication" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/UpdateApplication",
+         "UpdateConfigurationProfile" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/UpdateConfigurationProfile",
+         "UpdateDeploymentStrategy" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/UpdateDeploymentStrategy",
+         "UpdateEnvironment" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/UpdateEnvironment",
+         "ValidateConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/appconfig/ValidateConfiguration"
+      }
+   }
+}

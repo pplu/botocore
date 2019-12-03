@@ -7,6 +7,7 @@
          "GetLicenseConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/license-manager/GetLicenseConfiguration",
          "GetServiceSettings" : "https://docs.aws.amazon.com/goto/WebAPI/license-manager/GetServiceSettings",
          "ListAssociationsForLicenseConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/license-manager/ListAssociationsForLicenseConfiguration",
+         "ListFailuresForLicenseConfigurationOperations" : "https://docs.aws.amazon.com/goto/WebAPI/license-manager/ListFailuresForLicenseConfigurationOperations",
          "ListLicenseConfigurations" : "https://docs.aws.amazon.com/goto/WebAPI/license-manager/ListLicenseConfigurations",
          "ListLicenseSpecificationsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/license-manager/ListLicenseSpecificationsForResource",
          "ListResourceInventory" : "https://docs.aws.amazon.com/goto/WebAPI/license-manager/ListResourceInventory",

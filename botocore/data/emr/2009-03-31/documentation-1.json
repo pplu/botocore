@@ -21,6 +21,7 @@
          "ListInstances" : "https://docs.aws.amazon.com/goto/WebAPI/elasticmapreduce/ListInstances",
          "ListSecurityConfigurations" : "https://docs.aws.amazon.com/goto/WebAPI/elasticmapreduce/ListSecurityConfigurations",
          "ListSteps" : "https://docs.aws.amazon.com/goto/WebAPI/elasticmapreduce/ListSteps",
+         "ModifyCluster" : "https://docs.aws.amazon.com/goto/WebAPI/elasticmapreduce/ModifyCluster",
          "ModifyInstanceFleet" : "https://docs.aws.amazon.com/goto/WebAPI/elasticmapreduce/ModifyInstanceFleet",
          "ModifyInstanceGroups" : "https://docs.aws.amazon.com/goto/WebAPI/elasticmapreduce/ModifyInstanceGroups",
          "PutAutoScalingPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/elasticmapreduce/PutAutoScalingPolicy",
