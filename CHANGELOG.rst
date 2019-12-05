@@ -2,6 +2,46 @@
 CHANGELOG
 =========
 
+1.13.33
+=======
+
+* api-change:``kinesisvideo``: Update kinesisvideo client to latest version
+* api-change:``kinesis-video-signaling``: Update kinesis-video-signaling client to latest version
+* api-change:``apigatewayv2``: Update apigatewayv2 client to latest version
+
+
+1.13.32
+=======
+
+* api-change:``ebs``: Update ebs client to latest version
+* api-change:``stepfunctions``: Update stepfunctions client to latest version
+* api-change:``application-autoscaling``: Update application-autoscaling client to latest version
+* api-change:``lambda``: Update lambda client to latest version
+* api-change:``rekognition``: Update rekognition client to latest version
+* api-change:``rds``: Update rds client to latest version
+* api-change:``sagemaker``: Update sagemaker client to latest version
+
+
+1.13.31
+=======
+
+* api-change:``textract``: Update textract client to latest version
+* api-change:``s3control``: Update s3control client to latest version
+* api-change:``ecs``: Update ecs client to latest version
+* api-change:``s3``: Update s3 client to latest version
+* api-change:``outposts``: Update outposts client to latest version
+* api-change:``kendra``: Update kendra client to latest version
+* api-change:``eks``: Update eks client to latest version
+* api-change:``networkmanager``: Update networkmanager client to latest version
+* api-change:``compute-optimizer``: Update compute-optimizer client to latest version
+* api-change:``ec2``: Update ec2 client to latest version
+* api-change:``frauddetector``: Update frauddetector client to latest version
+* api-change:``sagemaker-a2i-runtime``: Update sagemaker-a2i-runtime client to latest version
+* api-change:``codeguru-reviewer``: Update codeguru-reviewer client to latest version
+* api-change:``codeguruprofiler``: Update codeguruprofiler client to latest version
+* api-change:``es``: Update es client to latest version
+
+
 1.13.30
 =======
 
