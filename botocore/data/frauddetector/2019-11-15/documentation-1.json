@@ -1,0 +1,37 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector-2019-11-15",
+      "methods" : {
+         "BatchCreateVariable" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/BatchCreateVariable",
+         "BatchGetVariable" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/BatchGetVariable",
+         "CreateDetectorVersion" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/CreateDetectorVersion",
+         "CreateModelVersion" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/CreateModelVersion",
+         "CreateRule" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/CreateRule",
+         "CreateVariable" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/CreateVariable",
+         "DeleteDetectorVersion" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/DeleteDetectorVersion",
+         "DeleteEvent" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/DeleteEvent",
+         "DescribeDetector" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/DescribeDetector",
+         "DescribeModelVersions" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/DescribeModelVersions",
+         "GetDetectorVersion" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetDetectorVersion",
+         "GetDetectors" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetDetectors",
+         "GetExternalModels" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetExternalModels",
+         "GetModelVersion" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetModelVersion",
+         "GetModels" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetModels",
+         "GetOutcomes" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetOutcomes",
+         "GetPrediction" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetPrediction",
+         "GetRules" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetRules",
+         "GetVariables" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/GetVariables",
+         "PutDetector" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/PutDetector",
+         "PutExternalModel" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/PutExternalModel",
+         "PutModel" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/PutModel",
+         "PutOutcome" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/PutOutcome",
+         "UpdateDetectorVersion" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/UpdateDetectorVersion",
+         "UpdateDetectorVersionMetadata" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/UpdateDetectorVersionMetadata",
+         "UpdateDetectorVersionStatus" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/UpdateDetectorVersionStatus",
+         "UpdateModelVersion" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/UpdateModelVersion",
+         "UpdateRuleMetadata" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/UpdateRuleMetadata",
+         "UpdateRuleVersion" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/UpdateRuleVersion",
+         "UpdateVariable" : "https://docs.aws.amazon.com/goto/WebAPI/frauddetector/UpdateVariable"
+      }
+   }
+}

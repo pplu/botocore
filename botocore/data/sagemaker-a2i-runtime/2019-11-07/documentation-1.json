@@ -1,0 +1,12 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/a2i-runtime.sagemaker-2019-11-07",
+      "methods" : {
+         "DeleteHumanLoop" : "https://docs.aws.amazon.com/goto/WebAPI/a2i-runtime.sagemaker/DeleteHumanLoop",
+         "DescribeHumanLoop" : "https://docs.aws.amazon.com/goto/WebAPI/a2i-runtime.sagemaker/DescribeHumanLoop",
+         "ListHumanLoops" : "https://docs.aws.amazon.com/goto/WebAPI/a2i-runtime.sagemaker/ListHumanLoops",
+         "StartHumanLoop" : "https://docs.aws.amazon.com/goto/WebAPI/a2i-runtime.sagemaker/StartHumanLoop",
+         "StopHumanLoop" : "https://docs.aws.amazon.com/goto/WebAPI/a2i-runtime.sagemaker/StopHumanLoop"
+      }
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/ebs-2019-11-02",
+      "methods" : {
+         "GetSnapshotBlock" : "https://docs.aws.amazon.com/goto/WebAPI/ebs/GetSnapshotBlock",
+         "ListChangedBlocks" : "https://docs.aws.amazon.com/goto/WebAPI/ebs/ListChangedBlocks",
+         "ListSnapshotBlocks" : "https://docs.aws.amazon.com/goto/WebAPI/ebs/ListSnapshotBlocks"
+      }
+   }
+}

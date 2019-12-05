@@ -1,0 +1,16 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler-2019-07-18",
+      "methods" : {
+         "ConfigureAgent" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/ConfigureAgent",
+         "CreateProfilingGroup" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/CreateProfilingGroup",
+         "DeleteProfilingGroup" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/DeleteProfilingGroup",
+         "DescribeProfilingGroup" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/DescribeProfilingGroup",
+         "GetProfile" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/GetProfile",
+         "ListProfileTimes" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/ListProfileTimes",
+         "ListProfilingGroups" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/ListProfilingGroups",
+         "PostAgentProfile" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/PostAgentProfile",
+         "UpdateProfilingGroup" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-profiler/UpdateProfilingGroup"
+      }
+   }
+}

@@ -2,11 +2,19 @@
    "documentation" : {
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control-2018-08-20",
       "methods" : {
+         "CreateAccessPoint" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/CreateAccessPoint",
          "CreateJob" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/CreateJob",
+         "DeleteAccessPoint" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/DeleteAccessPoint",
+         "DeleteAccessPointPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/DeleteAccessPointPolicy",
          "DeletePublicAccessBlock" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/DeletePublicAccessBlock",
          "DescribeJob" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/DescribeJob",
+         "GetAccessPoint" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/GetAccessPoint",
+         "GetAccessPointPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/GetAccessPointPolicy",
+         "GetAccessPointPolicyStatus" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/GetAccessPointPolicyStatus",
          "GetPublicAccessBlock" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/GetPublicAccessBlock",
+         "ListAccessPoints" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/ListAccessPoints",
          "ListJobs" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/ListJobs",
+         "PutAccessPointPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/PutAccessPointPolicy",
          "PutPublicAccessBlock" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/PutPublicAccessBlock",
          "UpdateJobPriority" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/UpdateJobPriority",
          "UpdateJobStatus" : "https://docs.aws.amazon.com/goto/WebAPI/s3-control/UpdateJobStatus"

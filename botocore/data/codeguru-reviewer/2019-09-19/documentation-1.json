@@ -1,0 +1,11 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-reviewer-2019-09-19",
+      "methods" : {
+         "AssociateRepository" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-reviewer/AssociateRepository",
+         "DescribeRepositoryAssociation" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-reviewer/DescribeRepositoryAssociation",
+         "DisassociateRepository" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-reviewer/DisassociateRepository",
+         "ListRepositoryAssociations" : "https://docs.aws.amazon.com/goto/WebAPI/codeguru-reviewer/ListRepositoryAssociations"
+      }
+   }
+}

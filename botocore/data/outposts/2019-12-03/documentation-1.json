@@ -1,0 +1,12 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/outposts-2019-12-03",
+      "methods" : {
+         "CreateOutpost" : "https://docs.aws.amazon.com/goto/WebAPI/outposts/CreateOutpost",
+         "GetOutpost" : "https://docs.aws.amazon.com/goto/WebAPI/outposts/GetOutpost",
+         "GetOutpostInstanceTypes" : "https://docs.aws.amazon.com/goto/WebAPI/outposts/GetOutpostInstanceTypes",
+         "ListOutposts" : "https://docs.aws.amazon.com/goto/WebAPI/outposts/ListOutposts",
+         "ListSites" : "https://docs.aws.amazon.com/goto/WebAPI/outposts/ListSites"
+      }
+   }
+}

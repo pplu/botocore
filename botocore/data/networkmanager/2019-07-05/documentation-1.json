@@ -1,0 +1,35 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager-2019-07-05",
+      "methods" : {
+         "AssociateCustomerGateway" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/AssociateCustomerGateway",
+         "AssociateLink" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/AssociateLink",
+         "CreateDevice" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/CreateDevice",
+         "CreateGlobalNetwork" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/CreateGlobalNetwork",
+         "CreateLink" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/CreateLink",
+         "CreateSite" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/CreateSite",
+         "DeleteDevice" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/DeleteDevice",
+         "DeleteGlobalNetwork" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/DeleteGlobalNetwork",
+         "DeleteLink" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/DeleteLink",
+         "DeleteSite" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/DeleteSite",
+         "DeregisterTransitGateway" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/DeregisterTransitGateway",
+         "DescribeGlobalNetworks" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/DescribeGlobalNetworks",
+         "DisassociateCustomerGateway" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/DisassociateCustomerGateway",
+         "DisassociateLink" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/DisassociateLink",
+         "GetCustomerGatewayAssociations" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/GetCustomerGatewayAssociations",
+         "GetDevices" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/GetDevices",
+         "GetLinkAssociations" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/GetLinkAssociations",
+         "GetLinks" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/GetLinks",
+         "GetSites" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/GetSites",
+         "GetTransitGatewayRegistrations" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/GetTransitGatewayRegistrations",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/ListTagsForResource",
+         "RegisterTransitGateway" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/RegisterTransitGateway",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/UntagResource",
+         "UpdateDevice" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/UpdateDevice",
+         "UpdateGlobalNetwork" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/UpdateGlobalNetwork",
+         "UpdateLink" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/UpdateLink",
+         "UpdateSite" : "https://docs.aws.amazon.com/goto/WebAPI/networkmanager/UpdateSite"
+      }
+   }
+}

@@ -2,15 +2,24 @@
    "documentation" : {
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo-2017-09-30",
       "methods" : {
+         "CreateSignalingChannel" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/CreateSignalingChannel",
          "CreateStream" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/CreateStream",
+         "DeleteSignalingChannel" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/DeleteSignalingChannel",
          "DeleteStream" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/DeleteStream",
+         "DescribeSignalingChannel" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/DescribeSignalingChannel",
          "DescribeStream" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/DescribeStream",
          "GetDataEndpoint" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/GetDataEndpoint",
+         "GetSignalingChannelEndpoint" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/GetSignalingChannelEndpoint",
+         "ListSignalingChannels" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/ListSignalingChannels",
          "ListStreams" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/ListStreams",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/ListTagsForResource",
          "ListTagsForStream" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/ListTagsForStream",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/TagResource",
          "TagStream" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/TagStream",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/UntagResource",
          "UntagStream" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/UntagStream",
          "UpdateDataRetention" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/UpdateDataRetention",
+         "UpdateSignalingChannel" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/UpdateSignalingChannel",
          "UpdateStream" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/UpdateStream"
       }
    }

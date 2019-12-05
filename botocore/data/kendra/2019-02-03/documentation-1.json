@@ -1,0 +1,27 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/kendra-2019-02-03",
+      "methods" : {
+         "BatchDeleteDocument" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/BatchDeleteDocument",
+         "BatchPutDocument" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/BatchPutDocument",
+         "CreateDataSource" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/CreateDataSource",
+         "CreateFaq" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/CreateFaq",
+         "CreateIndex" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/CreateIndex",
+         "DeleteFaq" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/DeleteFaq",
+         "DeleteIndex" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/DeleteIndex",
+         "DescribeDataSource" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/DescribeDataSource",
+         "DescribeFaq" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/DescribeFaq",
+         "DescribeIndex" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/DescribeIndex",
+         "ListDataSourceSyncJobs" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/ListDataSourceSyncJobs",
+         "ListDataSources" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/ListDataSources",
+         "ListFaqs" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/ListFaqs",
+         "ListIndices" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/ListIndices",
+         "Query" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/Query",
+         "StartDataSourceSyncJob" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/StartDataSourceSyncJob",
+         "StopDataSourceSyncJob" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/StopDataSourceSyncJob",
+         "SubmitFeedback" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/SubmitFeedback",
+         "UpdateDataSource" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/UpdateDataSource",
+         "UpdateIndex" : "https://docs.aws.amazon.com/goto/WebAPI/kendra/UpdateIndex"
+      }
+   }
+}

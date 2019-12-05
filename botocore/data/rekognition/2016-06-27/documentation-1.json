@@ -4,12 +4,17 @@
       "methods" : {
          "CompareFaces" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/CompareFaces",
          "CreateCollection" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/CreateCollection",
+         "CreateProject" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/CreateProject",
+         "CreateProjectVersion" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/CreateProjectVersion",
          "CreateStreamProcessor" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/CreateStreamProcessor",
          "DeleteCollection" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DeleteCollection",
          "DeleteFaces" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DeleteFaces",
          "DeleteStreamProcessor" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DeleteStreamProcessor",
          "DescribeCollection" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DescribeCollection",
+         "DescribeProjectVersions" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DescribeProjectVersions",
+         "DescribeProjects" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DescribeProjects",
          "DescribeStreamProcessor" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DescribeStreamProcessor",
+         "DetectCustomLabels" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DetectCustomLabels",
          "DetectFaces" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DetectFaces",
          "DetectLabels" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DetectLabels",
          "DetectModerationLabels" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/DetectModerationLabels",
@@ -34,7 +39,9 @@
          "StartFaceSearch" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartFaceSearch",
          "StartLabelDetection" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartLabelDetection",
          "StartPersonTracking" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartPersonTracking",
+         "StartProjectVersion" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartProjectVersion",
          "StartStreamProcessor" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartStreamProcessor",
+         "StopProjectVersion" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StopProjectVersion",
          "StopStreamProcessor" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StopStreamProcessor"
       }
    }

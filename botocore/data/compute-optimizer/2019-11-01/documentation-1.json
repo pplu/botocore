@@ -1,0 +1,13 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/compute-optimizer-2019-11-01",
+      "methods" : {
+         "GetAutoScalingGroupRecommendations" : "https://docs.aws.amazon.com/goto/WebAPI/compute-optimizer/GetAutoScalingGroupRecommendations",
+         "GetEC2InstanceRecommendations" : "https://docs.aws.amazon.com/goto/WebAPI/compute-optimizer/GetEC2InstanceRecommendations",
+         "GetEC2RecommendationProjectedMetrics" : "https://docs.aws.amazon.com/goto/WebAPI/compute-optimizer/GetEC2RecommendationProjectedMetrics",
+         "GetEnrollmentStatus" : "https://docs.aws.amazon.com/goto/WebAPI/compute-optimizer/GetEnrollmentStatus",
+         "GetRecommendationSummaries" : "https://docs.aws.amazon.com/goto/WebAPI/compute-optimizer/GetRecommendationSummaries",
+         "UpdateEnrollmentStatus" : "https://docs.aws.amazon.com/goto/WebAPI/compute-optimizer/UpdateEnrollmentStatus"
+      }
+   }
+}

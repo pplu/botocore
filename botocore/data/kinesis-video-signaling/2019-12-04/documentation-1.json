@@ -1,0 +1,9 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo-2019-12-04",
+      "methods" : {
+         "GetIceServerConfig" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/GetIceServerConfig",
+         "SendAlexaOfferToMaster" : "https://docs.aws.amazon.com/goto/WebAPI/kinesisvideo/SendAlexaOfferToMaster"
+      }
+   }
+}

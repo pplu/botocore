@@ -2,6 +2,7 @@
    "documentation" : {
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/ecs-2014-11-13",
       "methods" : {
+         "CreateCapacityProvider" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/CreateCapacityProvider",
          "CreateCluster" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/CreateCluster",
          "CreateService" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/CreateService",
          "CreateTaskSet" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/CreateTaskSet",
@@ -12,6 +13,7 @@
          "DeleteTaskSet" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/DeleteTaskSet",
          "DeregisterContainerInstance" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/DeregisterContainerInstance",
          "DeregisterTaskDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/DeregisterTaskDefinition",
+         "DescribeCapacityProviders" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/DescribeCapacityProviders",
          "DescribeClusters" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/DescribeClusters",
          "DescribeContainerInstances" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/DescribeContainerInstances",
          "DescribeServices" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/DescribeServices",
@@ -31,6 +33,7 @@
          "PutAccountSetting" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/PutAccountSetting",
          "PutAccountSettingDefault" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/PutAccountSettingDefault",
          "PutAttributes" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/PutAttributes",
+         "PutClusterCapacityProviders" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/PutClusterCapacityProviders",
          "RegisterContainerInstance" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/RegisterContainerInstance",
          "RegisterTaskDefinition" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/RegisterTaskDefinition",
          "RunTask" : "https://docs.aws.amazon.com/goto/WebAPI/ecs/RunTask",
