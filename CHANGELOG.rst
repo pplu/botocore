@@ -2,6 +2,34 @@
 CHANGELOG
 =========
 
+1.13.37
+=======
+
+* api-change:``ec2``: Update ec2 client to latest version
+
+
+1.13.36
+=======
+
+* api-change:``kendra``: Update kendra client to latest version
+
+
+1.13.35
+=======
+
+* bugfix:s3: Add stricter validation to s3 control account id parameter.
+* api-change:``quicksight``: Update quicksight client to latest version
+* api-change:``kms``: Update kms client to latest version
+* api-change:``ssm``: Update ssm client to latest version
+* api-change:``kafka``: Update kafka client to latest version
+
+
+1.13.34
+=======
+
+* bugfix:s3: Fixed an issue where the request path was set incorrectly if access point name was present in key path.
+
+
 1.13.33
 =======
 
