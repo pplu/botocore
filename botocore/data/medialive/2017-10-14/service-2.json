@@ -3621,45 +3621,7 @@
       },
       "documentation": "Placeholder documentation for CreateInputSecurityGroupResultModel"
     },
-    "CreateMultiplex": {
-      "type": "structure",
-      "members": {
-        "AvailabilityZones": {
-          "shape": "__listOf__string",
-          "locationName": "availabilityZones",
-          "documentation": "A list of availability zones for the multiplex. You must specify exactly two."
-        },
-        "MultiplexSettings": {
-          "shape": "MultiplexSettings",
-          "locationName": "multiplexSettings",
-          "documentation": "Configuration for a multiplex event."
-        },
-        "Name": {
-          "shape": "__string",
-          "locationName": "name",
-          "documentation": "Name of multiplex."
-        },
-        "RequestId": {
-          "shape": "__string",
-          "locationName": "requestId",
-          "documentation": "Unique request ID. This prevents retries from creating multiple\nresources.\n",
-          "idempotencyToken": true
-        },
-        "Tags": {
-          "shape": "Tags",
-          "locationName": "tags",
-          "documentation": "A collection of key-value pairs."
-        }
-      },
-      "required": [
-        "RequestId",
-        "MultiplexSettings",
-        "AvailabilityZones",
-        "Name"
-      ],
-      "documentation": "Placeholder documentation for CreateMultiplex"
-    },
-    "CreateMultiplexProgram": {
+    "CreateMultiplexProgramRequest": {
       "type": "structure",
       "members": {
         "MultiplexProgramSettings": {
@@ -3685,40 +3647,6 @@
         "ProgramName"
       ],
       "documentation": "Placeholder documentation for CreateMultiplexProgram"
-    },
-    "CreateMultiplexProgramRequest": {
-      "type": "structure",
-      "members": {
-        "MultiplexId": {
-          "shape": "__string",
-          "location": "uri",
-          "locationName": "multiplexId",
-          "documentation": "ID of the multiplex where the program is to be created."
-        },
-        "MultiplexProgramSettings": {
-          "shape": "MultiplexProgramSettings",
-          "locationName": "multiplexProgramSettings",
-          "documentation": "The settings for this multiplex program."
-        },
-        "ProgramName": {
-          "shape": "__string",
-          "locationName": "programName",
-          "documentation": "Name of multiplex program."
-        },
-        "RequestId": {
-          "shape": "__string",
-          "locationName": "requestId",
-          "documentation": "Unique request ID. This prevents retries from creating multiple\nresources.\n",
-          "idempotencyToken": true
-        }
-      },
-      "documentation": "A request to create a program in a multiplex.",
-      "required": [
-        "MultiplexId",
-        "RequestId",
-        "MultiplexProgramSettings",
-        "ProgramName"
-      ]
     },
     "CreateMultiplexProgramResponse": {
       "type": "structure",
@@ -3772,13 +3700,13 @@
           "documentation": "A collection of key-value pairs."
         }
       },
-      "documentation": "A request to create a multiplex.",
       "required": [
         "RequestId",
         "MultiplexSettings",
         "AvailabilityZones",
         "Name"
-      ]
+      ],
+      "documentation": "Placeholder documentation for CreateMultiplex"
     },
     "CreateMultiplexResponse": {
       "type": "structure",
@@ -11498,7 +11426,7 @@
       },
       "documentation": "Placeholder documentation for UpdateInputSecurityGroupResultModel"
     },
-    "UpdateMultiplex": {
+    "UpdateMultiplexRequest": {
       "type": "structure",
       "members": {
         "MultiplexSettings": {
@@ -11514,7 +11442,7 @@
       },
       "documentation": "Placeholder documentation for UpdateMultiplex"
     },
-    "UpdateMultiplexProgram": {
+    "UpdateMultiplexProgramRequest": {
       "type": "structure",
       "members": {
         "MultiplexProgramSettings": {
@@ -11524,33 +11452,6 @@
         }
       },
       "documentation": "Placeholder documentation for UpdateMultiplexProgram"
-    },
-    "UpdateMultiplexProgramRequest": {
-      "type": "structure",
-      "members": {
-        "MultiplexId": {
-          "shape": "__string",
-          "location": "uri",
-          "locationName": "multiplexId",
-          "documentation": "The ID of the multiplex of the program to update."
-        },
-        "MultiplexProgramSettings": {
-          "shape": "MultiplexProgramSettings",
-          "locationName": "multiplexProgramSettings",
-          "documentation": "The new settings for a multiplex program."
-        },
-        "ProgramName": {
-          "shape": "__string",
-          "location": "uri",
-          "locationName": "programName",
-          "documentation": "The name of the program to update."
-        }
-      },
-      "documentation": "A request to update a program in a multiplex.",
-      "required": [
-        "MultiplexId",
-        "ProgramName"
-      ]
     },
     "UpdateMultiplexProgramResponse": {
       "type": "structure",
@@ -11573,31 +11474,6 @@
         }
       },
       "documentation": "Placeholder documentation for UpdateMultiplexProgramResultModel"
-    },
-    "UpdateMultiplexRequest": {
-      "type": "structure",
-      "members": {
-        "MultiplexId": {
-          "shape": "__string",
-          "location": "uri",
-          "locationName": "multiplexId",
-          "documentation": "ID of the multiplex to update."
-        },
-        "MultiplexSettings": {
-          "shape": "MultiplexSettings",
-          "locationName": "multiplexSettings",
-          "documentation": "The new settings for a multiplex."
-        },
-        "Name": {
-          "shape": "__string",
-          "locationName": "name",
-          "documentation": "Name of the multiplex."
-        }
-      },
-      "documentation": "A request to update a multiplex.",
-      "required": [
-        "MultiplexId"
-      ]
     },
     "UpdateMultiplexResponse": {
       "type": "structure",
