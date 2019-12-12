@@ -59,6 +59,7 @@
          "DescribePatchProperties" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/DescribePatchProperties",
          "DescribeSessions" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/DescribeSessions",
          "GetAutomationExecution" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/GetAutomationExecution",
+         "GetCalendarState" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/GetCalendarState",
          "GetCommandInvocation" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/GetCommandInvocation",
          "GetConnectionStatus" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/GetConnectionStatus",
          "GetDefaultPatchBaseline" : "https://docs.aws.amazon.com/goto/WebAPI/ssm/GetDefaultPatchBaseline",
