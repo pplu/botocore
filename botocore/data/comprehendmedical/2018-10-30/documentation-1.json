@@ -7,6 +7,8 @@
          "DetectEntities" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DetectEntities",
          "DetectEntitiesV2" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DetectEntitiesV2",
          "DetectPHI" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/DetectPHI",
+         "InferICD10CM" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/InferICD10CM",
+         "InferRxNorm" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/InferRxNorm",
          "ListEntitiesDetectionV2Jobs" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/ListEntitiesDetectionV2Jobs",
          "ListPHIDetectionJobs" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/ListPHIDetectionJobs",
          "StartEntitiesDetectionV2Job" : "https://docs.aws.amazon.com/goto/WebAPI/comprehendmedical/StartEntitiesDetectionV2Job",

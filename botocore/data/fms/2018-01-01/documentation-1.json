@@ -14,8 +14,11 @@
          "ListComplianceStatus" : "https://docs.aws.amazon.com/goto/WebAPI/fms/ListComplianceStatus",
          "ListMemberAccounts" : "https://docs.aws.amazon.com/goto/WebAPI/fms/ListMemberAccounts",
          "ListPolicies" : "https://docs.aws.amazon.com/goto/WebAPI/fms/ListPolicies",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/fms/ListTagsForResource",
          "PutNotificationChannel" : "https://docs.aws.amazon.com/goto/WebAPI/fms/PutNotificationChannel",
-         "PutPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/fms/PutPolicy"
+         "PutPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/fms/PutPolicy",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/fms/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/fms/UntagResource"
       }
    }
 }

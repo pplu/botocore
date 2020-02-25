@@ -11,6 +11,7 @@
          "DisassociateCreatedArtifact" : "https://docs.aws.amazon.com/goto/WebAPI/mgh/DisassociateCreatedArtifact",
          "DisassociateDiscoveredResource" : "https://docs.aws.amazon.com/goto/WebAPI/mgh/DisassociateDiscoveredResource",
          "ImportMigrationTask" : "https://docs.aws.amazon.com/goto/WebAPI/mgh/ImportMigrationTask",
+         "ListApplicationStates" : "https://docs.aws.amazon.com/goto/WebAPI/mgh/ListApplicationStates",
          "ListCreatedArtifacts" : "https://docs.aws.amazon.com/goto/WebAPI/mgh/ListCreatedArtifacts",
          "ListDiscoveredResources" : "https://docs.aws.amazon.com/goto/WebAPI/mgh/ListDiscoveredResources",
          "ListMigrationTasks" : "https://docs.aws.amazon.com/goto/WebAPI/mgh/ListMigrationTasks",

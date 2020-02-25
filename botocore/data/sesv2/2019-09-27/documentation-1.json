@@ -43,6 +43,7 @@
          "PutDedicatedIpWarmupAttributes" : "https://docs.aws.amazon.com/goto/WebAPI/email/PutDedicatedIpWarmupAttributes",
          "PutDeliverabilityDashboardOption" : "https://docs.aws.amazon.com/goto/WebAPI/email/PutDeliverabilityDashboardOption",
          "PutEmailIdentityDkimAttributes" : "https://docs.aws.amazon.com/goto/WebAPI/email/PutEmailIdentityDkimAttributes",
+         "PutEmailIdentityDkimSigningAttributes" : "https://docs.aws.amazon.com/goto/WebAPI/email/PutEmailIdentityDkimSigningAttributes",
          "PutEmailIdentityFeedbackAttributes" : "https://docs.aws.amazon.com/goto/WebAPI/email/PutEmailIdentityFeedbackAttributes",
          "PutEmailIdentityMailFromAttributes" : "https://docs.aws.amazon.com/goto/WebAPI/email/PutEmailIdentityMailFromAttributes",
          "PutSuppressedDestination" : "https://docs.aws.amazon.com/goto/WebAPI/email/PutSuppressedDestination",

@@ -2,19 +2,28 @@
    "documentation" : {
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem-2015-02-01",
       "methods" : {
+         "CreateAccessPoint" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/CreateAccessPoint",
          "CreateFileSystem" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/CreateFileSystem",
          "CreateMountTarget" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/CreateMountTarget",
          "CreateTags" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/CreateTags",
+         "DeleteAccessPoint" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DeleteAccessPoint",
          "DeleteFileSystem" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DeleteFileSystem",
+         "DeleteFileSystemPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DeleteFileSystemPolicy",
          "DeleteMountTarget" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DeleteMountTarget",
          "DeleteTags" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DeleteTags",
+         "DescribeAccessPoints" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DescribeAccessPoints",
+         "DescribeFileSystemPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DescribeFileSystemPolicy",
          "DescribeFileSystems" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DescribeFileSystems",
          "DescribeLifecycleConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DescribeLifecycleConfiguration",
          "DescribeMountTargetSecurityGroups" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DescribeMountTargetSecurityGroups",
          "DescribeMountTargets" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DescribeMountTargets",
          "DescribeTags" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/DescribeTags",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/ListTagsForResource",
          "ModifyMountTargetSecurityGroups" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/ModifyMountTargetSecurityGroups",
+         "PutFileSystemPolicy" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/PutFileSystemPolicy",
          "PutLifecycleConfiguration" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/PutLifecycleConfiguration",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/UntagResource",
          "UpdateFileSystem" : "https://docs.aws.amazon.com/goto/WebAPI/elasticfilesystem/UpdateFileSystem"
       }
    }

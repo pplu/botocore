@@ -17,6 +17,8 @@
          "DescribeActionTargets" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/DescribeActionTargets",
          "DescribeHub" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/DescribeHub",
          "DescribeProducts" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/DescribeProducts",
+         "DescribeStandards" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/DescribeStandards",
+         "DescribeStandardsControls" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/DescribeStandardsControls",
          "DisableImportFindingsForProduct" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/DisableImportFindingsForProduct",
          "DisableSecurityHub" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/DisableSecurityHub",
          "DisassociateFromMasterAccount" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/DisassociateFromMasterAccount",
@@ -39,7 +41,8 @@
          "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/UntagResource",
          "UpdateActionTarget" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/UpdateActionTarget",
          "UpdateFindings" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/UpdateFindings",
-         "UpdateInsight" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/UpdateInsight"
+         "UpdateInsight" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/UpdateInsight",
+         "UpdateStandardsControl" : "https://docs.aws.amazon.com/goto/WebAPI/securityhub/UpdateStandardsControl"
       }
    }
 }

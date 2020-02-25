@@ -26,6 +26,7 @@
          "GetFaceSearch" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/GetFaceSearch",
          "GetLabelDetection" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/GetLabelDetection",
          "GetPersonTracking" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/GetPersonTracking",
+         "GetTextDetection" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/GetTextDetection",
          "IndexFaces" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/IndexFaces",
          "ListCollections" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/ListCollections",
          "ListFaces" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/ListFaces",
@@ -41,6 +42,7 @@
          "StartPersonTracking" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartPersonTracking",
          "StartProjectVersion" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartProjectVersion",
          "StartStreamProcessor" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartStreamProcessor",
+         "StartTextDetection" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StartTextDetection",
          "StopProjectVersion" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StopProjectVersion",
          "StopStreamProcessor" : "https://docs.aws.amazon.com/goto/WebAPI/rekognition/StopStreamProcessor"
       }

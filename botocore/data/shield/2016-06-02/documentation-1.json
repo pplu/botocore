@@ -4,6 +4,7 @@
       "methods" : {
          "AssociateDRTLogBucket" : "https://docs.aws.amazon.com/goto/WebAPI/shield/AssociateDRTLogBucket",
          "AssociateDRTRole" : "https://docs.aws.amazon.com/goto/WebAPI/shield/AssociateDRTRole",
+         "AssociateHealthCheck" : "https://docs.aws.amazon.com/goto/WebAPI/shield/AssociateHealthCheck",
          "CreateProtection" : "https://docs.aws.amazon.com/goto/WebAPI/shield/CreateProtection",
          "CreateSubscription" : "https://docs.aws.amazon.com/goto/WebAPI/shield/CreateSubscription",
          "DeleteProtection" : "https://docs.aws.amazon.com/goto/WebAPI/shield/DeleteProtection",
@@ -15,6 +16,7 @@
          "DescribeSubscription" : "https://docs.aws.amazon.com/goto/WebAPI/shield/DescribeSubscription",
          "DisassociateDRTLogBucket" : "https://docs.aws.amazon.com/goto/WebAPI/shield/DisassociateDRTLogBucket",
          "DisassociateDRTRole" : "https://docs.aws.amazon.com/goto/WebAPI/shield/DisassociateDRTRole",
+         "DisassociateHealthCheck" : "https://docs.aws.amazon.com/goto/WebAPI/shield/DisassociateHealthCheck",
          "GetSubscriptionState" : "https://docs.aws.amazon.com/goto/WebAPI/shield/GetSubscriptionState",
          "ListAttacks" : "https://docs.aws.amazon.com/goto/WebAPI/shield/ListAttacks",
          "ListProtections" : "https://docs.aws.amazon.com/goto/WebAPI/shield/ListProtections",

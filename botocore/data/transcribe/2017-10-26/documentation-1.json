@@ -3,14 +3,19 @@
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe-2017-10-26",
       "methods" : {
          "CreateVocabulary" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/CreateVocabulary",
+         "CreateVocabularyFilter" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/CreateVocabularyFilter",
          "DeleteTranscriptionJob" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/DeleteTranscriptionJob",
          "DeleteVocabulary" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/DeleteVocabulary",
+         "DeleteVocabularyFilter" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/DeleteVocabularyFilter",
          "GetTranscriptionJob" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/GetTranscriptionJob",
          "GetVocabulary" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/GetVocabulary",
+         "GetVocabularyFilter" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/GetVocabularyFilter",
          "ListTranscriptionJobs" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/ListTranscriptionJobs",
          "ListVocabularies" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/ListVocabularies",
+         "ListVocabularyFilters" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/ListVocabularyFilters",
          "StartTranscriptionJob" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/StartTranscriptionJob",
-         "UpdateVocabulary" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/UpdateVocabulary"
+         "UpdateVocabulary" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/UpdateVocabulary",
+         "UpdateVocabularyFilter" : "https://docs.aws.amazon.com/goto/WebAPI/transcribe/UpdateVocabularyFilter"
       }
    }
 }

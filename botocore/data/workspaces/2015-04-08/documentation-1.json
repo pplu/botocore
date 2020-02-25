@@ -26,6 +26,7 @@
          "DisassociateIpGroups" : "https://docs.aws.amazon.com/goto/WebAPI/workspaces/DisassociateIpGroups",
          "ImportWorkspaceImage" : "https://docs.aws.amazon.com/goto/WebAPI/workspaces/ImportWorkspaceImage",
          "ListAvailableManagementCidrRanges" : "https://docs.aws.amazon.com/goto/WebAPI/workspaces/ListAvailableManagementCidrRanges",
+         "MigrateWorkspace" : "https://docs.aws.amazon.com/goto/WebAPI/workspaces/MigrateWorkspace",
          "ModifyAccount" : "https://docs.aws.amazon.com/goto/WebAPI/workspaces/ModifyAccount",
          "ModifyClientProperties" : "https://docs.aws.amazon.com/goto/WebAPI/workspaces/ModifyClientProperties",
          "ModifySelfservicePermissions" : "https://docs.aws.amazon.com/goto/WebAPI/workspaces/ModifySelfservicePermissions",

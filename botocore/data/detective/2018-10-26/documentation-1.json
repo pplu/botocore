@@ -1,0 +1,18 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective-2018-10-26",
+      "methods" : {
+         "AcceptInvitation" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/AcceptInvitation",
+         "CreateGraph" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/CreateGraph",
+         "CreateMembers" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/CreateMembers",
+         "DeleteGraph" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/DeleteGraph",
+         "DeleteMembers" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/DeleteMembers",
+         "DisassociateMembership" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/DisassociateMembership",
+         "GetMembers" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/GetMembers",
+         "ListGraphs" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/ListGraphs",
+         "ListInvitations" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/ListInvitations",
+         "ListMembers" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/ListMembers",
+         "RejectInvitation" : "https://docs.aws.amazon.com/goto/WebAPI/api.detective/RejectInvitation"
+      }
+   }
+}

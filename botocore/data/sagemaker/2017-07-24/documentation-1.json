@@ -74,6 +74,7 @@
          "DescribeTrial" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/DescribeTrial",
          "DescribeTrialComponent" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/DescribeTrialComponent",
          "DescribeUserProfile" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/DescribeUserProfile",
+         "DescribeWorkforce" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/DescribeWorkforce",
          "DescribeWorkteam" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/DescribeWorkteam",
          "DisassociateTrialComponent" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/DisassociateTrialComponent",
          "GetSearchSuggestions" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/GetSearchSuggestions",
@@ -132,6 +133,7 @@
          "UpdateTrial" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/UpdateTrial",
          "UpdateTrialComponent" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/UpdateTrialComponent",
          "UpdateUserProfile" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/UpdateUserProfile",
+         "UpdateWorkforce" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/UpdateWorkforce",
          "UpdateWorkteam" : "https://docs.aws.amazon.com/goto/WebAPI/api.sagemaker/UpdateWorkteam"
       }
    }

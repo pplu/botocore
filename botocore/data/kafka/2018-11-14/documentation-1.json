@@ -14,6 +14,7 @@
          "ListClusters" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/ListClusters",
          "ListConfigurationRevisions" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/ListConfigurationRevisions",
          "ListConfigurations" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/ListConfigurations",
+         "ListKafkaVersions" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/ListKafkaVersions",
          "ListNodes" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/ListNodes",
          "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/ListTagsForResource",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/kafka/TagResource",

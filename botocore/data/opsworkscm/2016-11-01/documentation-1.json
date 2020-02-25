@@ -14,8 +14,11 @@
          "DescribeServers" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_DescribeServers.html",
          "DisassociateNode" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_DisassociateNode.html",
          "ExportServerEngineAttribute" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_ExportServerEngineAttribute.html",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_ListTagsForResource.html",
          "RestoreServer" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_RestoreServer.html",
          "StartMaintenance" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_StartMaintenance.html",
+         "TagResource" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_TagResource.html",
+         "UntagResource" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_UntagResource.html",
          "UpdateServer" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_UpdateServer.html",
          "UpdateServerEngineAttributes" : "https://docs.aws.amazon.com/opsworks-cm/latest/APIReference/API_UpdateServerEngineAttributes.html"
       }

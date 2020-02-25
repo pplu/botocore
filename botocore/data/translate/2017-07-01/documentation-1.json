@@ -3,9 +3,13 @@
       "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/translate-2017-07-01",
       "methods" : {
          "DeleteTerminology" : "https://docs.aws.amazon.com/goto/WebAPI/translate/DeleteTerminology",
+         "DescribeTextTranslationJob" : "https://docs.aws.amazon.com/goto/WebAPI/translate/DescribeTextTranslationJob",
          "GetTerminology" : "https://docs.aws.amazon.com/goto/WebAPI/translate/GetTerminology",
          "ImportTerminology" : "https://docs.aws.amazon.com/goto/WebAPI/translate/ImportTerminology",
          "ListTerminologies" : "https://docs.aws.amazon.com/goto/WebAPI/translate/ListTerminologies",
+         "ListTextTranslationJobs" : "https://docs.aws.amazon.com/goto/WebAPI/translate/ListTextTranslationJobs",
+         "StartTextTranslationJob" : "https://docs.aws.amazon.com/goto/WebAPI/translate/StartTextTranslationJob",
+         "StopTextTranslationJob" : "https://docs.aws.amazon.com/goto/WebAPI/translate/StopTextTranslationJob",
          "TranslateText" : "https://docs.aws.amazon.com/goto/WebAPI/translate/TranslateText"
       }
    }

@@ -10,6 +10,9 @@
          "DescribeEnvironmentStatus" : "https://docs.aws.amazon.com/goto/WebAPI/cloud9/DescribeEnvironmentStatus",
          "DescribeEnvironments" : "https://docs.aws.amazon.com/goto/WebAPI/cloud9/DescribeEnvironments",
          "ListEnvironments" : "https://docs.aws.amazon.com/goto/WebAPI/cloud9/ListEnvironments",
+         "ListTagsForResource" : "https://docs.aws.amazon.com/goto/WebAPI/cloud9/ListTagsForResource",
+         "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/cloud9/TagResource",
+         "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/cloud9/UntagResource",
          "UpdateEnvironment" : "https://docs.aws.amazon.com/goto/WebAPI/cloud9/UpdateEnvironment",
          "UpdateEnvironmentMembership" : "https://docs.aws.amazon.com/goto/WebAPI/cloud9/UpdateEnvironmentMembership"
       }

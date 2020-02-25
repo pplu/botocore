@@ -18,6 +18,7 @@
          "DescribeProblemObservations" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/DescribeProblemObservations",
          "ListApplications" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListApplications",
          "ListComponents" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListComponents",
+         "ListConfigurationHistory" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListConfigurationHistory",
          "ListLogPatternSets" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListLogPatternSets",
          "ListLogPatterns" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListLogPatterns",
          "ListProblems" : "https://docs.aws.amazon.com/goto/WebAPI/applicationinsights/ListProblems",

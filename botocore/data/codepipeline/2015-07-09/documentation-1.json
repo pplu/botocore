@@ -35,6 +35,7 @@
          "RegisterWebhookWithThirdParty" : "https://docs.aws.amazon.com/goto/WebAPI/codepipeline/RegisterWebhookWithThirdParty",
          "RetryStageExecution" : "https://docs.aws.amazon.com/goto/WebAPI/codepipeline/RetryStageExecution",
          "StartPipelineExecution" : "https://docs.aws.amazon.com/goto/WebAPI/codepipeline/StartPipelineExecution",
+         "StopPipelineExecution" : "https://docs.aws.amazon.com/goto/WebAPI/codepipeline/StopPipelineExecution",
          "TagResource" : "https://docs.aws.amazon.com/goto/WebAPI/codepipeline/TagResource",
          "UntagResource" : "https://docs.aws.amazon.com/goto/WebAPI/codepipeline/UntagResource",
          "UpdatePipeline" : "https://docs.aws.amazon.com/goto/WebAPI/codepipeline/UpdatePipeline"

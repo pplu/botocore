@@ -1,0 +1,11 @@
+{
+   "documentation" : {
+      "api_url" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-connections-2019-12-01",
+      "methods" : {
+         "CreateConnection" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-connections/CreateConnection",
+         "DeleteConnection" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-connections/DeleteConnection",
+         "GetConnection" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-connections/GetConnection",
+         "ListConnections" : "https://docs.aws.amazon.com/goto/WebAPI/codestar-connections/ListConnections"
+      }
+   }
+}
